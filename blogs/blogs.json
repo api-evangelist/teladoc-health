@@ -2,18 +2,14 @@
   "repo": "teladoc-health",
   "feeds": [
     {
-      "source": "https://www.teladochealth.com/insights",
-      "saved": 0,
-      "error": "404 not found"
-    },
-    {
       "source": "https://www.teladochealth.com/newsroom",
-      "feed_url": "",
+      "feed_url": "https://www.teladochealth.com/newsroom",
+      "title": "",
       "saved": 0,
-      "method": "agent-scrape"
+      "method": "none"
     }
   ],
-  "fetched": "2026-06-27T13:15:10Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 0,
-  "agent_pulled": "2026-06-27"
+  "agent_pulled": "2026-07-04"
 }
