@@ -2,6 +2,17 @@ aid: teladoc-health
 url: https://github.com/api-evangelist/teladoc-health
 name: Teladoc Health
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.teladochealth.com/favicon.ico
 tags:
   - Healthcare
