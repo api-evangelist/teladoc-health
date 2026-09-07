@@ -70,3 +70,5 @@ common:
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
+x-parent: teladoc
+x-relationship: product
